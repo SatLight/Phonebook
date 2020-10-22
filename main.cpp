@@ -1,15 +1,3 @@
-/*
- * UE18CS208B - Programming With C++
- *
- * Project: Phonebook With Efficient Searching
- *
- * Team Members:
- *      Satyam Priyam - PES2201800595
- *      Ruchira R Vadiraj - PES2201800602
- *      Roshan Daivajna - PES2201800372
- *      Naveen K Murthy - PES2201800051
- */
-
 // NOTE: Compile using:  g++ -std=c++11 main.cpp definitions.cpp
 
 #include <iostream>
